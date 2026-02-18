@@ -48,7 +48,7 @@ font-family: CursorGothic, sans-serif;
 ## 📸 Screenshots
 
 ### Hero & Navigation
-![Hero Section](https://github-production-user-asset-6210df.s3.amazonaws.com/137703927/551372105-411c9cff-12c0-4d8a-9ff3-fdbe62d00576.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260218T063030Z&X-Amz-Expires=300&X-Amz-Signature=69abbab6a6d8d7de1d14959d1c63c64d1db4cec6797f2754a7ae1a51bbfd49e8&X-Amz-SignedHeaders=host) 
+![Hero Section](https://github.com/user-attachments/assets/8b507a25-a073-4051-9f98-f028cef8e8b1) 
 
 
 ### Feature Showcases
