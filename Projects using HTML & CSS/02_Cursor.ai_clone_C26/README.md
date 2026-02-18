@@ -52,11 +52,11 @@ font-family: CursorGothic, sans-serif;
 
 
 ### Feature Showcases
-![Features](https://github-production-user-asset-6210df.s3.amazonaws.com/137703927/551372661-0fd10423-cdd9-4c03-8946-c717c8306b2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260218T063239Z&X-Amz-Expires=300&X-Amz-Signature=14590c0c5c6c2e77fce9b786dab599262ebd1103e441edd71ca5b6bd6010ada1&X-Amz-SignedHeaders=host)
+![Features](https://github.com/user-attachments/assets/8163a0b6-7148-426d-8c80-23398eab5d0a)
 
 
 ### Footer
-![Footer](https://github-production-user-asset-6210df.s3.amazonaws.com/137703927/551372902-3b44d568-fb4c-42ae-934f-7e75779d8e61.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260218T063319Z&X-Amz-Expires=300&X-Amz-Signature=26379523fb882f3cc2a0245dd76ba9b3e3abf7f609d83796c594a066b16d8656&X-Amz-SignedHeaders=host)
+![Footer](https://github.com/user-attachments/assets/fe3acf3b-c7f7-4226-82bd-1fe85ef57e1e)
 
 ---
 ---
